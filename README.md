@@ -26,7 +26,7 @@ The Retail Sales Performance Dashboard is an interactive analytics solution desi
 
 ## Dashboard Overview
 ### Overall Dashboard
-![Dashboard Overview](screenshots/Overview_Dashboard.png)
+![Dashboard Overview](screenshots/Dashboard_Overview.png)
 
 ### KPI Section
 ![KPI Section](screenshots/KPI_Section.png) 
