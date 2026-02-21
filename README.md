@@ -26,16 +26,16 @@ The Retail Sales Performance Dashboard is an interactive analytics solution desi
 
 ## Dashboard Overview
 ### Overall Dashboard
-![Dashboard Overview](screenshotfolder/Overview_Dashboard.png)
+![Dashboard Overview](screenshots/Overview_Dashboard.png)
 
 ### KPI Section
-![KPI Section](screenshot.folder/KPI Section.png)
+![KPI Section](screenshots/KPI_Section.png) 
 
 ### Charts & Distribution 
-![Charts Overview](screenshot folder/Charts_Overview.png)
+![Charts Overview](screenshots/Charts_Overview.png)
 
 ### Slicers
-![Slicers](screenshot folder/Slicers.png)
+![Slicers](screenshots/Slicers.png) 
 
 ## Key Insights
 1. Technology is the highest revenue-generating category.
