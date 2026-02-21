@@ -37,4 +37,18 @@ The Retail Sales Performance Dashboard is an interactive analytics solution desi
 ### Slicers
 ![Slicers](screenshot folder/Slicers.png)
 
+## Key Insights
+1. Technology is the highest revenue-generating category.
+2. The West region consistently leads in sales.
+3. Sales peak in September and November.
+4. Some months show reduced profitability despite strong sales.
+5. Average shipping time is maintained at 4 days.
 
+## Future Enhancements
+1. Add customer segmentation analysis
+2. Add forecasting (ARIMA / Prophet)
+3. Add profit margin analysis
+4. Deploy dashboard to cloud (Power BI Service / Tableau Server)
+5. Build automated data pipeline
+
+Author Pranali Prakash Ranjane
