@@ -1,2 +1,31 @@
 # Retail_Sales_Analysis_Dashboard
-A dynamic business intelligence dashboard delivering insights into retail sales, profitability, and regional trends (2014–2017).
+A comprehensive Retail Sales Dashboard analyzing sales, profit, orders, and shipping performance across categories, sub-categories, regions, and time (2014–2017).
+This dashboard provides business insights into revenue distribution, profitability trends, and regional performance to support data-driven decision-making.
+
+## Project Overview
+The Retail Sales Performance Dashboard is an interactive analytics solution designed to:
+1. Monitor total sales and profit
+2. Analyze category and sub-category performance
+3. Compare regional sales contribution
+4. Track monthly Year-over-Year (YoY) sales and profit trends
+5. Identify key business insights
+6. The dashboard covers retail transaction data from 2014 to 2017.
+
+## Objectives
+1. Identify top-performing product categories
+2. Compare regional sales distribution
+3. Analyze monthly sales and profit trends
+4. Evaluate shipping efficiency
+5. Provide executive-level KPIs for quick decision-making
+
+## Key Metrics (KPIs)
+1. Total Sales - 484.2K
+2. Total Profit - 50K
+3. Total Orders - 7,581
+4. Average Ship Days - 4
+
+## Dashboard Overview
+### Overall Dashboard
+![Dashboard Overview](screenshot/Overview_Dashboard.png)
+
+### KPI Section
